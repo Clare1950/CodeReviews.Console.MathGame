@@ -49,9 +49,9 @@ namespace Maths_Game
                 }
                 else
                 {
-                    {
-                        Console.WriteLine("Please enter one of the following options.");
-                    }
+                    
+                    Console.WriteLine("Please enter one of the following options.");
+                    
                 }
             }
         }
