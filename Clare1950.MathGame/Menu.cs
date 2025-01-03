@@ -1,5 +1,3 @@
-﻿using System;
-
 namespace Maths_Game
 {
     internal class Menu
