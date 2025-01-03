@@ -93,7 +93,7 @@ namespace Maths_Game
             answer = Helpers.ValidateResult(answer);
             if (answer == sum)
             {
-                Helpers.AddToGamesList(num1, num2, "/", "correct"); ;
+                Helpers.AddToGamesList(num1, num2, "/", "correct");
                 return true;
             }
             else
